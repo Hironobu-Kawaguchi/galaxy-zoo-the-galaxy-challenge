@@ -1,1 +1,5 @@
 /input/
+/output/
+/working/*.h5
+/working/cache.*
+/working/.ipynb_checkpoints/*
