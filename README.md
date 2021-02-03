@@ -1,4 +1,4 @@
-# kaggle competition Galaxy Zoo - The Galaxy Challenge
+# kaggle competition Galaxy Zoo - The Galaxy Challenge late submission
 
 https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/
 
