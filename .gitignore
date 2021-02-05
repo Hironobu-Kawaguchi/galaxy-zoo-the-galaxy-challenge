@@ -3,3 +3,4 @@
 /working/*.h5
 /working/cache.*
 /working/.ipynb_checkpoints/*
+/old/
